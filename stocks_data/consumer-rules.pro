@@ -1,0 +1,1 @@
+-keep class com.poc.stocks_data.data_models.*JsonAdapter
