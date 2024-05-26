@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "sdk_poc"
 include(":app")
 include(":stocks_data")
+include(":weather-api-sdk")
